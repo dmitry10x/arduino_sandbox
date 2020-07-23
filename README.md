@@ -1,2 +1,3 @@
-"# arduino_sandbox" 
-"# arduino_sandbox" 
+Изучаю Arduino
+
+Загружаю сюда скрипты по работе с датчиками
